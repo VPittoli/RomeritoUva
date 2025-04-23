@@ -1,0 +1,17 @@
+p{
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding: 10px;
+}
+.normal_dot{
+  border-style: dotted;
+}
+.dashed_dot{
+  border-style: dashed;
+}
+.solid_dot{
+  border-style: solid;
+}
+.double_dot{
+  border-style: double;
+}
